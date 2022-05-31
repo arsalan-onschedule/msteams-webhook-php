@@ -1,0 +1,19 @@
+{
+    "name": "arsalanazhar/msteams-webhook-php",
+    "description": "Ms Teams webhook connector",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "ArsalanAzhar\\MsTeamsWebhookPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Arsalan Azhar",
+            "email": "arsalan.onschedule@nxvt.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+    }
+}
